@@ -6,3 +6,9 @@
   width: 20vw;
   height: auto;
 }
+
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: #121212; /* dark background */
+}
