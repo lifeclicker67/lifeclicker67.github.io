@@ -1,7 +1,7 @@
 #click_thing {
   position: absolute;
   left: 50%;
-  top: 20vw;
+  top: 0vw;
   transform: translateX(-50%);
   width: 20vw;
   height: auto;
@@ -10,5 +10,5 @@
 body {
   margin: 0;
   overflow: hidden;
-  background-color: #921212; /* dark background */
+  background-color: #121212; /* dark background */
 }
