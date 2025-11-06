@@ -1,7 +1,7 @@
 #click_thing {
   position: absolute;
   left: 50%;
-  top: 20%;
+  top: 10%;
   transform: translateX(-50%);
   width: 20vw;
   height: auto;
