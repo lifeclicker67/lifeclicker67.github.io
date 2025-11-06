@@ -1,6 +1,8 @@
-.container {
+#click thing {
   position: absolute;
   left: 50%;
   top: 20%;
   transform: translateX(-50%);
+  width: 20vw;
+  height: auto;
 }
