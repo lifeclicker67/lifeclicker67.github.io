@@ -1,10 +1,12 @@
 #click_thing {
   position: absolute;
   left: 50%;
-  top: 0vw;
+  top: 20vh;
   transform: translateX(-50%);
   width: 20vw;
   height: auto;
+  border: 2px solid black;
+	border-radius: 25%;
 }
 
 body {
