@@ -3,7 +3,7 @@
 	top: 5vh;
 	left: 50vw;
 	transform: translate(-50%, 0%);
-	width: 20vw;
+	width: 15vw;
 	height: auto;
 	border: 2px solid black;
 	border-radius: 25%;
@@ -22,7 +22,7 @@ body {
 
 #resources {
 	position: absolute;
-	top: 70vh;
+	top: 75vh;
 	left: 50vw;
 	transform: translate(-50%, -50%);
 	width: 20vw;
