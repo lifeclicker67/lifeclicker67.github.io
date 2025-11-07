@@ -2,7 +2,7 @@
 	position: absolute;
 	top: 5vh;
 	left: 50vw;
-	transform: translate(-50%, -50%);
+	transform: translate(-50%, 0%);
 	width: 20vw;
 	height: auto;
 	border: 2px solid black;
@@ -17,11 +17,12 @@ body {
 
 #resources p {
 	color: #FFFFFF;
+	text-align: center;
 }
 
 #resources {
 	position: absolute;
-	top: 50vh;
+	top: 70vh;
 	left: 50vw;
 	transform: translate(-50%, -50%);
 	width: 20vw;
