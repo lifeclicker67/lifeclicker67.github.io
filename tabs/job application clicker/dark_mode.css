@@ -1,8 +1,7 @@
 #click_thing {
 	position: absolute;
-	left: 50%;
 	y: 5vh;
-	transform: translateX(-50%);
+	x: 50vw;
 	width: 20vw;
 	height: auto;
 	border: 2px solid black;
@@ -14,3 +13,14 @@ body {
 	overflow: hidden;
 	background-color: #121212; /* dark background */
 }
+
+#resources p {
+	color: #FFFFFF;
+}
+
+#resources {
+	position: absolute;
+	y: 50vh;
+	x: 50vw;
+	width: 20vw;
+	height: auto;
