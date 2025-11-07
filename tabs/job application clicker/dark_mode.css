@@ -1,16 +1,16 @@
 #click_thing {
-  position: absolute;
-  left: 50%;
-  top: 5vh;
-  transform: translateX(-50%);
-  width: 50vw;
-  height: auto;
-  border: 2px solid black;
+	position: absolute;
+	left: 50%;
+	y: 5vh;
+	transform: translateX(-50%);
+	width: 50vw;
+	height: auto;
+	border: 2px solid black;
 	border-radius: 25%;
 }
 
 body {
-  margin: 0;
-  overflow: hidden;
-  background-color: #121212; /* dark background */
+	margin: 0;
+	overflow: hidden;
+	background-color: #121212; /* dark background */
 }
