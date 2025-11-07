@@ -1,9 +1,9 @@
 #click_thing {
   position: absolute;
   left: 50%;
-  top: 20vh;
+  top: 5vh;
   transform: translateX(-50%);
-  width: 20vw;
+  width: 50vw;
   height: auto;
   border: 2px solid black;
 	border-radius: 25%;
